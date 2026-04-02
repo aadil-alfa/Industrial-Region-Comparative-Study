@@ -42,7 +42,7 @@ This project presents a comparative study of two major industrial regions in Ind
 ---
 
 ## 📁 Project Files
-- Term Paper (PDF/Word)
+- Term Paper PDF
 - Figures and Charts
 
 ---
