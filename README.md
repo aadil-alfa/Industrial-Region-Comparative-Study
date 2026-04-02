@@ -14,6 +14,8 @@ This project presents a comparative study of two major industrial regions in Ind
 ## 📍 Study Area
 - Mumbai–Pune Industrial Region (Maharashtra)
 - Bengaluru–Tamil Nadu Industrial Corridor
+- ## 📷 Study Area Map
+![Study Area](STUDY-AREA-MAP.png)
 
 ---
 
@@ -43,6 +45,8 @@ This project presents a comparative study of two major industrial regions in Ind
 
 ## 📁 Project Files
 - Term Paper PDF
+- ## 📄 Full Paper
+[Click here to view the full term paper](TERM PAPER.pdf)
 - Figures and Charts
 
 ---
